@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Goldgeek
-- 👀 I’m interested in Quant Finance with python
-- 🌱 I’m currently learning Python for Quant Finance
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at jeanclaude.houedjissin@orange.fr 
+- 👀 Passionate about Stock, Crypto, and Energy trading 
+- 🌱 Currently learning Python for Quant Finance and Data Science
+- 💞️ Open to collaboration on Quant Research and Data Science projects
+- 📫 Reach me at: jeanclaudehouedjissin@gmail.com
 
 <!---
 Goldgeek/Goldgeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
