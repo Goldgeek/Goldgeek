@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Goldgeek
 - 👀 Passionate about Stock, Crypto, and Energy trading 
 - 🌱 Currently learning Python for Quant Finance and Data Science
-- 💞️ Open to collaboration on Quant Research and Data Science projects
+- 💞️ Open to collaboration on Quant Research and Data Science/Engineering projects
 - 📫 Reach me at: jeanclaudehouedjissin@gmail.com
 
 <!---
