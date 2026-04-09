@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goldgeek
-- 👀 Passionate about Stock and Energy trading 
+- 👀 Passionate about Quantitative Research in Banking industry
 - 🌱 Currently learning Python for Quant Finance and Data Science
 - 💞️ Open to collaboration on Quant Research and Data Science/Engineering projects
 - 📫 Reach me at: jeanclaudehouedjissin@gmail.com
